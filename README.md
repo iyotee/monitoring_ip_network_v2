@@ -10,7 +10,7 @@ Ce script Bash permet de vérifier les adresses IP actives et libres sur un sous
 
 ## Utilisation
 
-1. Assurez-vous que l'outil `arp-scan` est installé sur votre système.
+1. Le script vérifie automatiquement si arp-scan est installé sur votre système, sinon il le fait pour vous.
 2. Exécutez le script en utilisant
 ```sh
 ./check_ip.sh
