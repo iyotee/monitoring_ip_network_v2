@@ -13,7 +13,7 @@ Ce script Bash permet de vérifier les adresses IP actives et libres sur un sous
 1. Le script vérifie automatiquement si arp-scan est installé sur votre système, sinon il le fait pour vous.
 2. Exécutez le script en utilisant
 ```sh
-./check_ip.sh
+./monitoring_ip_network_v2.sh
 ```
 5. Suivez les instructions pour voir les adresses IP utilisées et libres sur votre réseau local.
 
