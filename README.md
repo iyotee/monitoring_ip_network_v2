@@ -1,6 +1,6 @@
 # Description
 
-Ce script Bash permet de vérifier les adresses IP actives et libres sur un sous-réseau local. Il utilise l'outil `arp-scan` pour détecter les adresses IP actives et affiche ensuite les adresses IP utilisées en rouge et les adresses IP libres en vert. Cette solution est utile pour les administrateurs réseau ou les utilisateurs souhaitant gérer efficacement les adresses IP disponibles dans un réseau local.
+Ce script Bash permet de vérifier les adresses IP utilisées et libres sur un sous-réseau local. Il utilise l'outil `arp-scan` pour détecter les adresses IP actives et affiche ensuite les adresses IP utilisées en rouge et les adresses IP libres en vert. Cette solution est utile pour les administrateurs réseau ou les utilisateurs souhaitant gérer efficacement les adresses IP disponibles dans un réseau local.
 
 ## Fonctionnalités
 
