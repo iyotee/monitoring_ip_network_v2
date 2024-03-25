@@ -8,7 +8,10 @@ Affichage des adresses IP utilisées en rouge et des adresses IP libres en vert 
 Utilisation de l'outil arp-scan pour une détection précise des adresses IP actives.
 Utilisation
 Assurez-vous que l'outil arp-scan est installé sur votre système.
-Exécutez le script en utilisant ./monitoring_ip_network_v2.sh
+Exécutez le script en utilisant 
+```sh
+./monitoring_ip_network_v2.sh
+```
 Suivez les instructions pour voir les adresses IP utilisées et libres sur votre réseau local.
 Remarques
 Ce script a été testé sur des environnements Linux.
